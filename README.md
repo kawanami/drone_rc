@@ -1,4 +1,4 @@
-> このページを開く [https://kawanami.github.io/drone_rc/](https://kawanami.github.io/drone_rc/)
+> このページを開く [https://github.com/kawanami/drone_rc](https://github.com/kawanami/drone_rc)
 
 ## 拡張機能として使用
 
