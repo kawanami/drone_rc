@@ -1,5 +1,5 @@
 {
-    "name": "drone_RC",
+    "name": "kagabitIoT_drone_RC",
     "description": "",
     "dependencies": {
         "core": "*",
