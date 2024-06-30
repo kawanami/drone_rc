@@ -20,7 +20,7 @@ input.onButtonPressed(Button.A, function () {
     Tello.RCmode(
     0,
     0,
-    20,
+    30,
     0
     )
     basic.showLeds(`
@@ -66,7 +66,7 @@ input.onButtonPressed(Button.B, function () {
     Tello.RCmode(
     0,
     0,
-    -20,
+    -30,
     0
     )
     basic.showLeds(`

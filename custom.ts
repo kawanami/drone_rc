@@ -41,6 +41,8 @@ namespace Tello {
     //% group="設定"
     export function radiosetgroup(value: number): void {
         radio.setGroup(value)
+        radio.setFrequencyBand(value % 84)
+        radio.setTransmitPower(7)
     }
 
     /**
